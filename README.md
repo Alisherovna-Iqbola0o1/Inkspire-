@@ -36,15 +36,15 @@ pip install -r requirements.txt
 
     .env faylini yaratib, quyidagilarni qo‘shing:
 
-SECRET_KEY=your_secret_key
-DEBUG=True
-DB_ENGINE=django.db.backends.sqlite3
-DB_NAME=db.sqlite3
-DB_USER=
-DB_PASSWORD=
-DB_HOST=
-DB_PORT=
-ELASTICSEARCH_HOST=localhost:9200
+    SECRET_KEY=your_secret_key
+    DEBUG=True
+    DB_ENGINE=django.db.backends.sqlite3
+    DB_NAME=db.sqlite3
+    DB_USER=
+    DB_PASSWORD=
+    DB_HOST=
+    DB_PORT=
+    ELASTICSEARCH_HOST=localhost:9200
 
 5. Migratsiyalarni bajarish
 python manage.py migrate
