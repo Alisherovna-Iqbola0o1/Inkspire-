@@ -69,7 +69,9 @@ Endpoint	Funksiya	Rol
 /api/reviews/	Postlar uchun sharhlar	Authenticated
 /api/recommendations/	Tavsiyalarni ko‘rish	Authenticated
 /admin/	Admin panel	Admin
-🤝 Hissa qo‘shish
+
+
+---🤝 Hissa qo‘shish
 
 Hissalar qabul qilinadi!
 
